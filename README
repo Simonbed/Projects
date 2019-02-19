@@ -1,0 +1,9 @@
+These are some personnal projects that I add to this repository. 
+
+The "excel_datamodifyer.py" and "excel_datamodifyerv2.py" are the first draft and second draft of a script I wrote for a university project.
+The goal of these 2 scripts is to take the data from a Microsoft Forms survey we wrote and change the layout of the data. This was for 
+a data modelling project where we needed to make the data easy to read automatically.
+
+The "unemployment_dashboard_states.py" is a personnal project that is still in developpement to create a complex dashboard. It is not 
+finished but has some working functions.
+
